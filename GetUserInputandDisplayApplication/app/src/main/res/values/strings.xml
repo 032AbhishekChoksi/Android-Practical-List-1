@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Get User Input and Display Application</string>
+    <string name="enter_name">Enter The Name Here</string>
+    <string name="click_me">Click Me</string>
+</resources>
