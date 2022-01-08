@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Unit Conversion Fahrenheit to Celsius Application</string>
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="enter_the_fahrenheit_value_below">Enter the Fahrenheit value below</string>
+    <string name="submit">submit</string>
+    <string name="temperaturelogo">Temperature Logo</string>
+</resources>
