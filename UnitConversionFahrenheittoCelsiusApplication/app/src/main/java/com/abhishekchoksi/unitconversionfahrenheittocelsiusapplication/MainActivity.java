@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 double fahrenheit = 0 ,celsius = 0;
-                fahrenheit = Integer.parseInt(editTextFahrenheit.getText().toString());
+                fahrenheit = Double.parseDouble(editTextFahrenheit.getText().toString());
                 celsius = 0.55 * (fahrenheit - 32);
                 textViewCelsius.setText(String.format("The corresponding value in Celsius is %.2f", celsius));
             }
