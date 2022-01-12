@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intents Application</string>
+    <string name="open_web_page">Web Page</string>
+    <string name="open_calling">Calling</string>
+    <string name="open_sms">SMS</string>
+    <string name="open_email">Email</string>
+    <string name="search_on_browser">Search on Browser</string>
+    <string name="enter_mobile_number">Enter The Mobile Number</string>
+    <string name="enter_message">Enter The Message</string>
+    <string name="sms">SMS</string>
+    <string name="title_activity_email">EmailActivity</string>
+
+    <string name="enter_email_address">Enter The Email Address</string>
+    <string name="enter_email_subject">Enter The Email Subject</string>
+    <string name="enter_email_body">Enter The Email Body</string>
+</resources>
