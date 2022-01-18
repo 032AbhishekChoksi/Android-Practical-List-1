@@ -1,0 +1,40 @@
+git commit -m "1. Get User Input and Display Application @2022 #032AbhishekChoksi. All rights reserved."
+
+git branch -M master
+git remote add master https://github.com/032AbhishekChoksi/Android-Practical-List-1.git
+git push -u master master
+
+git commit -m "2. Palindrome Application @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "3. Unit Conversion Fahrenheit to Celsius Application @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "4. Unit Conversion Kilogram to Pounds Application @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "5. Calculator Application V1 @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "6. Android Life Cycle Application @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "7. Calculator Application V2 @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "8. Tic Tac Toe Game @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "9. Login Functionality Application @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "10. Intents Application @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "11. Fragments Application @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+git commit -m "12. Calculator Fragments Application @2022 #032AbhishekChoksi. All rights reserved."
+git push https://github.com/032AbhishekChoksi/Android-Practical-List-1.git master
+
+
